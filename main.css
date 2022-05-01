@@ -1,0 +1,13 @@
+html {
+    background: #e6e9e9;
+}
+
+body {
+    background-color: white;
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: darkred;
+}
